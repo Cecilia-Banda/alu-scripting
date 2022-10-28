@@ -1,1 +1,1 @@
-This contains information in aadvanced api work
+This contains information in advanced api work
